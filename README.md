@@ -5,8 +5,12 @@ For the implementation code：make sure you have installed Pytorch, busco, ortho
 
 
 All the step-by-step information and code in WAGA is in Fish_BPe.ipynb; 
+
 If you need to run a splitter: python BPE.py; 
+
 If you need to do word embeddings: python Word2vec.py; 
+
 If you need to do a vectorial representation of the samples: python Vector_run.py; 
+
 If you need to train the WAGA model: If you need to train a WAGA model: python train.py, but remember to change the path;
 
